@@ -1,0 +1,18 @@
+.CodeMirror {
+  height: 340px !important;
+  color: azure;
+}
+
+.CodeMirror-gutters {
+  background: rgb(27, 28, 30) !important;
+}
+
+.CodeMirror-scroll {
+  background: rgb(27, 28, 30);
+}
+
+.closeopen:hover {background-color: azure}
+
+.closeopen:active {
+  background-color: azure;
+}
